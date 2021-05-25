@@ -43,13 +43,16 @@ font-style: normal;
   background-color: #5C9AFF;
   color: #F8F4F1;
 }
-img{
+/*img{
   width: 20%;
 margin:20px;
 padding: 0;
 position: absolute;
 top: 15%;
 left: 64%;
+}*/
+.logo{
+  float: left;
 }
 /*section*/
 section{
